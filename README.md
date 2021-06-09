@@ -1,1 +1,1 @@
-# Code sample for Deep Learning
+# Code samples for Deep Learning
